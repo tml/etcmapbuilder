@@ -13,5 +13,4 @@ This code SHOULD work in both Python 2 (≥2.6) and Python 3 (≥ 3.0).
 
 ### Who do I talk to? ###
 
-* Joey Smith (jsmith@axis41.com)
-* Axis41 Managed Operations Team (systems@axis41.com)
+* Joey Smith (joeysmith@gmail.com)
